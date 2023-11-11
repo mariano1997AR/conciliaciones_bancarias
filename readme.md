@@ -20,3 +20,5 @@ Los más frecuentes provienen de elementos como los siguientes:
 * <b>Deudas cobradas y registradas por el banco que no han sido introducidas en los libros contables</b> de la empresa. En ocaciones pueden ser propias comisiones bancaria.
 * <b>Cobros registrados por la empresa que aún no han sido abonados por el banco</b>(algunas transferencias y otras operaciones pueden requerir varios dias para su consolacion contable en la cuenta bancaria).
 
+Referencias:
+https://www.prosegur.com.ar/blog/efectivo/conciliacion-bancaria-paso-a-paso
